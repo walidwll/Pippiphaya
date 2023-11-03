@@ -1,20 +1,23 @@
-<<<<<<< HEAD
-# carpooling
 
-A new Flutter project.
+# PipPipHaya
 
-## Getting Started
+A carpooling application designed to facilitate shared transportation around cities in Tunisia by allowing users to find and share rides with others heading in the same direction
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](Screenshots/Screen_Shot_2023-05-08_at_10.23.22-removebg-preview.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Pippiphaya
->>>>>>> 4f596225f2243f192f2dc249d3b007eb32077925
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary | ![#14C5E5](https://via.placeholder.com/10/14C5E5f?text=+) #14C5E5 |
+| Secondary  Color | ![#FF9412](https://via.placeholder.com/10/ff9412?text=+) #FF9412 |
+
+
+
+## Authors
+
+- [Walid Oualili](https://github.com/walidwll)
+
